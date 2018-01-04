@@ -4,7 +4,7 @@ Now I edit the readme file and this edit is supposed to change README file in re
 ## Secondary Heading
 ### Trietary heading
 
-*first
-*second
-*third
+* first
+* second
+* third
 
